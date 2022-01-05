@@ -18,3 +18,4 @@ Tweet-sourced resources
 5. https://speakerdeck.com/chendaniely/learning-tidy-evaluation-by-reimplementing-dplyr
 6. https://speakerdeck.com/jennybc/tidy-eval-in-context?slide=1
 7. https://rlang.r-lib.org/
+8. https://laderast.github.io/posts/2017-12-19-understanding-tidyeval/
